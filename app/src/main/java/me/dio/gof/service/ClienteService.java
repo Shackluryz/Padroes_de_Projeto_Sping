@@ -11,7 +11,7 @@ import me.dio.gof.model.Cliente;
  */
 public interface ClienteService {
 	
-	Iterable<Cliente> burcarTodos();
+	Iterable<Cliente> buscarTodos();
 	Cliente buscarPorId(Long id);
 	void inserir(Cliente cliente);
 	void atualizar(Long id, Cliente cliente);

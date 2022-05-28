@@ -6,7 +6,7 @@ import me.dio.gof.service.ClienteService;
 public class ClienteServiceImpl implements ClienteService {
 
 	@Override
-	public Iterable<Cliente> burcarTodos() {
+	public Iterable<Cliente> buscarTodos() {
 		// TODO Auto-generated method stub
 		return null;
 	}
