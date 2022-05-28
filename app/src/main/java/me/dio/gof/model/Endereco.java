@@ -6,6 +6,9 @@ import javax.persistence.Id;
 /**
  * Preparação para o consumo da api ViaCEP, baseando-se no JSON de retorno.
  * 
+ * Dica: Pode ser criada com o json da api por meio do site jsonschema2pojo.org.
+ * 
+ * @see <a href="https://www.jsonschema2pojo.org/">
  * @see <a href="http://viacep.com.br">ViaCEP</a>
  * 
  * @author Alem
