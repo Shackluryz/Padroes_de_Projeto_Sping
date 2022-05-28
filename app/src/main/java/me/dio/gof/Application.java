@@ -15,6 +15,7 @@ import org.springframework.cloud.openfeign.EnableFeignClients;
  * @author Alem
  *
  */
+
 @EnableFeignClients
 @SpringBootApplication
 public class Application {

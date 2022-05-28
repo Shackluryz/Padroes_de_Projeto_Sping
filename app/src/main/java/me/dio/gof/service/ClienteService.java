@@ -9,6 +9,7 @@ import me.dio.gof.model.Cliente;
  * @author Alem
  *
  */
+
 public interface ClienteService {
 	
 	Iterable<Cliente> buscarTodos();
